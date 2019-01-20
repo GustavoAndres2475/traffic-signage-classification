@@ -1,0 +1,14 @@
+--------------------------------------------------------------------------------
+                               _____ _____ _____                                
+                              |_   _|  ___|  ___|                               
+                                | | | |___| |                                   
+                                | | |___  | |                                   
+                                | |  ___| | |___                                
+                                |_| |_____|_____|                               
+--------------------------------------------------------------------------------
+Traffic signage classifier which is able to classify images of German road
+signs. The dataset used in training was GTSRB, which included 43 classes of
+signs, ranging from subtle differences like speed limit numbers to signs with
+different shapes, colors, and symbols.
+--------------------------------------------------------------------------------
+
